@@ -1,3 +1,6 @@
+/* This code is not complete. The complete code was lost. This is a backup that I saved before completing the algorithm.
+   Dijkstra's Algorithm part needs modification and rest part works just fine. :) */
+
 #include <cmath>
 #include <string>
 #include <cstring>
